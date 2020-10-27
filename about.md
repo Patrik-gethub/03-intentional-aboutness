@@ -1,7 +1,5 @@
 ## Patrik
 
-A concise single sentence about yourself as a designer (aim for about 100 characers).
-
 My name is Patrik, I was born in Prague, currently studying at University of Creative communication, it's my 3rd and last year here.
 
 As I said, my name is Patrik and in my free time, I like to play musical instruments (guitar, piano, bass, didgeridoo, ukulele, cajon). I also found myself
